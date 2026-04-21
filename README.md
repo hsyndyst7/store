@@ -279,7 +279,7 @@ class _CartPageState extends State<CartPage> {
 
   
   void _sendWhatsApp() async {
-    String myNum = "905375029907"; 
+    String myNum = "90577777777777"; 
     
    
     String msg = "NFM Kozmetik Sipariş:\n\n";
