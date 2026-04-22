@@ -5,7 +5,7 @@ Implemented real-time product listing with category filtering, seller
 dashboard for product management (CRUD operations), image upload
 via device gallery, and integrated WhatsApp API for order submission.
 
-<img width="739" height="1600" alt="WhatsApp Image 2026-01-03 at 18 03 54" src="https://github.com/user-attachments/assets/6aedea9c-0af6-487a-89d6-9c90806c99f3" />
+
 <img width="1080" height="2340" alt="WhatsApp Image 2026-04-22 at 13 09 59" src="https://github.com/user-attachments/assets/6bed19aa-644b-4314-b347-b0fd8bf90f5d" />
 <img width="1080" height="2340" alt="WhatsApp Image 2026-04-22 at 13 09 59 (2)" src="https://github.com/user-attachments/assets/062bdc4f-df9b-4599-a02f-1356a9272aa6" />
 <img width="1080" height="2340" alt="WhatsApp Image 2026-04-22 at 13 09 59 (1)" src="https://github.com/user-attachments/assets/90d13187-8381-42bb-a75b-118369a9986b" />
